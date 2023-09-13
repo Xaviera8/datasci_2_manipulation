@@ -1,4 +1,1 @@
-# Github.Test
-This is a practice repo for HHA 506
-##header 2
-this is how i test commits
+# This is the repo for the week2 assignment
